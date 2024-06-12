@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/amitaj-amita_crosswalk_demo/:/",
-    "/content/amitaj-amita_crosswalk_demo/configuration:/.helix/config.json"
+    "/content/amitaj-xwalk/:/",
+    "/content/amitaj-xwalk/configuration:/.helix/config.json"
   ]
 }
